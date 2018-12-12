@@ -10,4 +10,9 @@ Test Django Application
 + ./manage.py startapp bookmark
 + ./manage.py makemigrations
 + ./manage.py migrate
++ ./manage.py createsuperuser
 
+
+#### Templates
+
+Use Phantom thema from https://html5up.net/
